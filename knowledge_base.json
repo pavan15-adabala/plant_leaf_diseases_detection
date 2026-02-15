@@ -1,0 +1,69 @@
+{
+  "Tomato": {
+    "Late Blight": {
+      "Early": [
+        "Remove infected leaves",
+        "Avoid overhead irrigation",
+        "Ensure good air circulation"
+      ],
+      "Moderate": [
+        "Apply recommended fungicide",
+        "Isolate infected plants",
+        "Monitor nearby plants"
+      ],
+      "Severe": [
+        "Immediate fungicide application required",
+        "Destroy heavily infected plants",
+        "Consult an agricultural expert"
+      ]
+    },
+
+    "Early Blight": {
+      "Early": [
+        "Remove affected lower leaves",
+        "Avoid wetting foliage"
+      ],
+      "Moderate": [
+        "Apply fungicide",
+        "Use crop rotation"
+      ],
+      "Severe": [
+        "Strong fungicide treatment required",
+        "Remove severely affected plants"
+      ]
+    }
+  },
+
+  "Potato": {
+    "Late Blight": {
+      "Early": [
+        "Remove infected foliage",
+        "Avoid excessive moisture"
+      ],
+      "Moderate": [
+        "Apply fungicide",
+        "Monitor disease spread"
+      ],
+      "Severe": [
+        "Destroy infected plants",
+        "Consult agricultural expert"
+      ]
+    }
+  },
+
+  "Pepper": {
+    "Bacterial Spot": {
+      "Early": [
+        "Remove infected leaves",
+        "Avoid overhead watering"
+      ],
+      "Moderate": [
+        "Apply copper-based fungicide"
+      ],
+      "Severe": [
+        "Remove severely infected plants",
+        "Seek expert guidance"
+      ]
+    }
+  }
+}
